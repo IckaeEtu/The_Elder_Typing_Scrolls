@@ -42,7 +42,7 @@ def new_word():
 
 #def del_last_letter():
 
-init("liste_mot_fr.txt")
+init("mot_skyrim.txt")
 new_word()
 
 running = True
